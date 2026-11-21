@@ -21,7 +21,7 @@
 **Scrollwave** puts TikTok in its own lightweight Mac window — no browser tabs, no clutter. It blocks third-party ads and trackers, plays nicely with your media keys, and lets you decide whether videos keep playing when you switch to another app.
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Scrollwave running on macOS" width="90%">
+  <img src="assets/app-screenshot.png" alt="Scrollwave running on macOS" width="90%">
 </p>
 
 ## Features
